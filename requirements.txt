@@ -1,0 +1,15 @@
+python-dotenv
+pyupbit
+openai
+pandas
+ta==0.10.2
+requests
+serpapi
+schedule
+numpy
+beautifulsoup4
+python-dateutil
+pydantic
+streamlit
+plotly
+sqlite3
